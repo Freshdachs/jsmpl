@@ -1,1 +1,1 @@
-var tst="hello world"
+tst="hello world"
